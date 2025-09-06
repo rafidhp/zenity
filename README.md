@@ -23,10 +23,14 @@ Zenity is application was developed with several main objectives that focus on p
 
 Build Zenity from the source and install dependencies:
 
-### 1. Clone Repository
+### 1. Fork Repository
+
+Fork this repository `https://github.com/rafidhp/zenity`.
+
+Clone your repository
 
 ```bash
-git clone https://github.com/rafidhp/zenity
+git clone https://github.com/your-username/zenity
 ```
 
 ### 2. Navigate to the project directory
