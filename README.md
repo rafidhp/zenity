@@ -51,9 +51,9 @@ composer install
 
 ### 4. Setup database
 
-<p>Create `zenity` database</p>
+Create `zenity` database
 
-<p>Copy your `env` file into the project</p>
+Copy your `env` file into the project
 
 ```bash
 php artisan migrate
